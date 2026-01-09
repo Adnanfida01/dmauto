@@ -1,0 +1,25 @@
+{
+    "name": "dm-auto-frontend",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev -p 3000",
+        "build": "next build",
+        "start": "next start -p 3000"
+    },
+    "dependencies": {
+        "@react-three/drei": "^9.105.2",
+        "@react-three/fiber": "^8.15.10",
+        "autoprefixer": "10.4.15",
+        "axios": "1.6.2",
+        "clsx": "2.0.0",
+        "firebase": "10.4.0",
+        "lucide-react": "0.294.0",
+        "next": "14.2.3",
+        "postcss": "8.4.31",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "tailwindcss": "3.3.5",
+        "three": "^0.160.0"
+    }
+}
